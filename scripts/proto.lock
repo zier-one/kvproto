@@ -18098,6 +18098,14 @@
               {
                 "name": "MsgSnapGenPrecheckResponse",
                 "integer": 16
+              },
+              {
+                "name": "MsgPreLoadRegionRequest",
+                "integer": 17
+              },
+              {
+                "name": "MsgPreLoadRegionResponse",
+                "integer": 18
               }
             ]
           }
